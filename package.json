@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Ramiro Uffelmann <ramirouf@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
